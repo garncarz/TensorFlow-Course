@@ -1,6 +1,6 @@
-# TensorFlow Machine Learning Course
+# TensorFlow image processing learning lab
 
-This is the repository that holds the Tensor Flow course. To view the course materials, go to the issues of this repo.
+Following https://lab.github.com/everydeveloper/introduction-to-tensorflow.
 
 `pip install -r requirements.txt`
 
